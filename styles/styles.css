@@ -191,7 +191,7 @@ a>p:hover{
 .bigImg{
     transition: background-size .3s;
     background-size: 100%;
-    background-image: url("/images/NotreDameCathedral.jpg");
+    background-image: url("./images/NotreDameCathedral.jpg");
     background-position: center;
     margin-top:10px;
   }
